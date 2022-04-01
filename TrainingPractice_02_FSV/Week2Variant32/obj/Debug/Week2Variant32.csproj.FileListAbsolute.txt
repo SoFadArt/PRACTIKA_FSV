@@ -1,0 +1,43 @@
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.exe.config
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.exe
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.pdb
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.AssemblyReference.cache
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.Form1.resources
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.Properties.Resources.resources
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.GenerateResource.cache
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.CoreCompileInputs.cache
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.exe
+C:\Users\Raven\Desktop\GitHub\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\bin\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Week2Variant32\Week2Variant32\Week2Variant32\obj\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\bin\Debug\Week2Variant32.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\bin\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\bin\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task32_Week2\Week2Variant32\obj\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\bin\Debug\Week2Variant32.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\bin\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\bin\Debug\Week2Variant32.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.exe
+C:\Users\aleks\OneDrive\Рабочий стол\TrainingPractice_02_FSV\Week2Variant32\obj\Debug\Week2Variant32.pdb

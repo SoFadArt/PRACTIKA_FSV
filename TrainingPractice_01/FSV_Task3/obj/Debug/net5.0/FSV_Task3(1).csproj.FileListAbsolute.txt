@@ -1,0 +1,16 @@
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).exe
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).dll
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\ref\FSV_Task3(1).dll
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\bin\Debug\net5.0\FSV_Task3(1).pdb
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).dll
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\ref\FSV_Task3(1).dll
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).pdb
+C:\Users\aleks\OneDrive\Рабочий стол\FSV_Task3(1)\obj\Debug\net5.0\FSV_Task3(1).genruntimeconfig.cache

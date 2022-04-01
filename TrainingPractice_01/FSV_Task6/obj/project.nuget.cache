@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHhgDZZgXbzYZEECqvif4BBvbXCnloIguIwUERYGk9m8tb4MjfqEwiebl7SbadvDNgZJTGqjbiJkBOAFODUysA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\FSV_Task6\\FSV_Task6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
